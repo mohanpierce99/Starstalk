@@ -51,6 +51,7 @@ async function recursiveStar(page) {
         fs.writeFileSync("./data.json", beautify(masterJSON, null, 2, 100))
         process.exit(0);
     }
+    pageCount++
     console.log(masterJSON);
     console.log("\n")
     recursiveStar(page);
