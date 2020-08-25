@@ -7,7 +7,7 @@
   <br>
   <h4 align="center"> Web Scraping Tool to get analysis over your stargazers</h4>
   <p align="center">
-  Starstalk allows users to get a deep analysis of who starred a specific repo - work place, github profile and email
+  Starstalk allows users to get a deep analysis of who starred a specific repo - their work place, github profile and email
 <p>
 
 ## Installing
